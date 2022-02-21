@@ -1,0 +1,6 @@
+<root>
+	<Title>The background does not change correctly. On the button "try for free". Feature page.</Title>
+	<Summary>When you hover over the "try for free" button, the color does not change!</Summary>
+	<Expected_result>The color of the button changes to black on hover.</Expected_result>
+	<Actual_result>On hover, the color of the button does not change to black.</Actual_result>
+</root>
